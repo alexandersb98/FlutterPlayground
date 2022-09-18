@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_playground/bastabaren.dart';
 
 void main() {
-  runApp(const MyApp());
+  //runApp(const MyApp());
+  runApp(const BastaBaren());
 }
 
 class BlueBox extends StatelessWidget {
